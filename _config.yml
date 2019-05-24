@@ -32,10 +32,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Planner
-    description                           : - Enrollment management with terms and courses\n- Add classes with custom class types
-- Support for repetitive and MWF classes
-- Skip single classes (attendance tracking) and see overview for each course
-- Delete single classes when they got canceled
+    description                           : - Enrollment management with terms and courses\n- Add classes with custom class types- Support for repetitive and MWF classes- Skip single classes (attendance tracking) and see overview for each course- Delete single classes when they got canceled
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
