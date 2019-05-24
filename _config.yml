@@ -31,11 +31,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Planner
+  - title                                 : Planner & Classes
     description                           : Enrollment management with terms and courses. Add classes with custom class types. Support for repetitive and MWF classes
     fontawesome_icon_name                 : university
     
-  - title                                 : Classes
+  - title                                 : Class management
     description                           : Skip single classes (attendance tracking) and see overview for each course. Delete single classes when they got canceled
     fontawesome_icon_name                 : chalkboard-teacher
     
