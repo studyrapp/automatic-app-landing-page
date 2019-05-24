@@ -32,12 +32,20 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Planner
-    description                           : Enrollment management with terms and courses. Add classes with custom class types. Support for repetitive and MWF classes. Skip single classes (attendance tracking) and see overview for each course. Delete single classes when they got canceled
+    description                           : Enrollment management with terms and courses. Add classes with custom class types. Support for repetitive and MWF classes
     fontawesome_icon_name                 : university
     
+  - title                                 : Classes
+    description                           : Skip single classes (attendance tracking) and see overview for each course. Delete single classes when they got canceled
+    fontawesome_icon_name                 : users-class
+    
   - title                                 : Calendar
-    description                           : Month or week overview. Shows all activities. Add extra-curricular events. Integrates the system calendar. Calendar sharing so you can integrate Studyr with your Google Calendar, Apple Calendar, or any other 3rd party app which supports iCal
+    description                           : Month or week overview. Shows all activities. Add extra-curricular events
     fontawesome_icon_name                 : calendar-alt
+    
+  - title                                 : Integration
+    description                           : Shows events from the system calendar. Calendar sharing to integrate Studyr with Google Calendar, Apple Calendar, or any other 3rd party app which supports iCal
+    fontawesome_icon_name                 : handshake
 
   - title                                 : Homework
     description                           : Add all your homework. Set priority levels, and reminders. Create repeating homework. Filter to show completed ones. Sort by date, course, and priority
