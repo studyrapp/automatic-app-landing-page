@@ -6,9 +6,9 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Studyr                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : $5                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : The smart student planner you have been waiting for
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -35,17 +35,13 @@ features                                  :
     description                           : Enrollment management with terms and courses. Add classes with custom class types. Support for repetitive and MWF classes
     fontawesome_icon_name                 : university
     
+  - title                                 : Calendar
+    description                           : Month and week overview. Shows all activities (Classes, Homework, Gradings). Add extra-curricular events
+    fontawesome_icon_name                 : calendar-alt
+    
   - title                                 : Class management
     description                           : Skip single classes (attendance tracking) and see overview for each course. Delete single classes when they got canceled
     fontawesome_icon_name                 : chalkboard-teacher
-    
-  - title                                 : Calendar
-    description                           : Month or week overview. Shows all activities. Add extra-curricular events
-    fontawesome_icon_name                 : calendar-alt
-    
-  - title                                 : Integration
-    description                           : Shows events from the system calendar. Calendar sharing to integrate Studyr with Google Calendar, Apple Calendar, or any other 3rd party app which supports iCal
-    fontawesome_icon_name                 : handshake
 
   - title                                 : Homework
     description                           : Add all your homework. Set priority levels, and reminders. Create repeating homework. Filter to show completed ones. Sort by date, course, and priority
@@ -54,6 +50,10 @@ features                                  :
   - title                                 : Grading
     description                           : Add all your grading/assignments. Set different grading types, and reminders. Create repeating gradings. Sort by date or course.
     fontawesome_icon_name                 : award
+    
+  - title                                 : Integration
+    description                           : Shows events from the system calendar. Calendar sharing to integrate Studyr with Google Calendar, Apple Calendar, or any other 3rd party app which supports iCal
+    fontawesome_icon_name                 : handshake
 
 
 # Theme Settings
