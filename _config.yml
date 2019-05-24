@@ -37,7 +37,7 @@ features                                  :
     
   - title                                 : Classes
     description                           : Skip single classes (attendance tracking) and see overview for each course. Delete single classes when they got canceled
-    fontawesome_icon_name                 : users-class
+    fontawesome_icon_name                 : chalkboard-teacher
     
   - title                                 : Calendar
     description                           : Month or week overview. Shows all activities. Add extra-curricular events
@@ -58,7 +58,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#26a9e0"
-topbar_transparency                       : 0.3
+topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
