@@ -22,7 +22,7 @@ your_city                                 : Zurich
 email_address                             : 
 facebook_username                         : studyrapp                                          
 instagram_username                        : 
-twitter_username                          : studytheapp
+twitter_username                          : studyrtheapp
 github_username                           : 
 youtube_username                          :
 
@@ -53,8 +53,8 @@ topbar_color                              : "#26a9e0"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.3
 
 device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
