@@ -57,8 +57,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#298FFF"
-topbar_transparency                       : 0.3
+topbar_color                              : 
+topbar_transparency                       : 0.0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
