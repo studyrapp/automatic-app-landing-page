@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : clipboard-list
 
   - title                                 : Grading
-    description                           : Add all your grading and assignments. Set grades, weigths, and reminders. Customize your grading scales. Create repeating gradings. Sort by date or course.
+    description                           : Add all your grading and assignments. Set grades, weights, and reminders. Customize your grading scales. Create repeating gradings. Sort by date or course.
     fontawesome_icon_name                 : award
     
   - title                                 : Integration
